@@ -1,3 +1,6 @@
+
+int treTalRaknare = 0;
+
 Console.Write($"ange tal{++treTalRaknare}: ");
 int tal1 = int.Parse(Console.ReadLine());
 
